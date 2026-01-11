@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "変身",
+  "base_artist": "V.W.P",
+  "createdAt": "2026-01-11T15:41:11.297516Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Overflow(変身)",
+      "artist": "YonYon feat. HITOMITOI",
+      "has_synced": false,
+      "path": "select/01_Overflow(変身)_YonYon_feat._HITOMITOI.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Overflow(変身)",
+      "artist": "YonYon/HITOMITOI",
+      "has_synced": false,
+      "path": "select/02_Overflow(変身)_YonYon_HITOMITOI.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "変身",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/03_変身_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "変身",
+      "artist": "羊文学",
+      "has_synced": true,
+      "path": "select/04_変身_羊文学.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "変身",
+      "artist": "V.W.P",
+      "has_synced": true,
+      "path": "select/05_変身_V.W.P.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "変身[REBORN]",
+      "artist": "BUCK‐TICK",
+      "has_synced": true,
+      "path": "select/06_変身[REBORN]_BUCK‐TICK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "変身(REBORN)",
+      "artist": "BUCK-TICK",
+      "has_synced": true,
+      "path": "select/07_変身(REBORN)_BUCK-TICK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "変身! ライダーブラック",
+      "artist": "五十嵐寿也",
+      "has_synced": true,
+      "path": "select/08_変身!_ライダーブラック_五十嵐寿也.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "変身",
+      "artist": "mitsume",
+      "has_synced": true,
+      "path": "select/09_変身_mitsume.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Overflow(変身)",
+      "artist": "YonYon",
+      "has_synced": false,
+      "path": "select/10_Overflow(変身)_YonYon.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "変身 [Reborn]",
+      "artist": "Buck-Tick",
+      "has_synced": true,
+      "path": "select/11_変身_[Reborn]_Buck-Tick.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "変身 (Instrumental)",
+      "artist": "V.W.P",
+      "has_synced": true,
+      "path": "select/12_変身_(Instrumental)_V.W.P.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "変身",
+      "artist": "mitsumeband",
+      "has_synced": true,
+      "path": "select/13_変身_mitsumeband.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "変身[Reborn]",
+      "artist": "BUCK-TICK",
+      "has_synced": true,
+      "path": "select/14_変身[Reborn]_BUCK-TICK.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "変身",
+      "artist": "WAKUSEI ABNORMAL",
+      "has_synced": false,
+      "path": "select/15_変身_WAKUSEI_ABNORMAL.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "変身",
+      "artist": "V.W.P",
+      "has_synced": false,
+      "path": "select/pl_01_変身_V.W.P.txt"
+    }
+  ]
+}
